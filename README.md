@@ -1,6 +1,7 @@
 # Visualizing Geospatial Data
 
-Creating visually stunning geospatial data plots using the Matplotlib, Xarray, Seaborn, Geopandas, and Cartopy packages 
+
+Create visually appealing geospatial data plots using the Matplotlib, Xarray, Seaborn, Geopandas, and Cartopy packages.
 
 ![Getting Started](cover_page.jpg)
 
